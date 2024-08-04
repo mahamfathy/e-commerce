@@ -6,3 +6,4 @@
 #2- npm i ngx-toastr
 #3- npm i @ngx-translate/core
 #4- npm i @ngx-translate/http-loader
+#5- npm i ngx-translate-messageformat-compiler
