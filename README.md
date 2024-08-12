@@ -8,4 +8,4 @@
 #4- npm i @ngx-translate/http-loader
 #5- npm i ngx-translate-messageformat-compiler
 #6- npm i bootstrap
-#7- npm i font-awesomee
+#7- npm i font-awesome with CDN or npm
